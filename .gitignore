@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django development
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media
+staticfiles
+.env
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Python virtual environment
+venv/
+env/
+
+# Others
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
